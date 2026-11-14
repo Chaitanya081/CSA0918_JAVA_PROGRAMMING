@@ -144,11 +144,6 @@ CO1_Java_Assignment1/
 ├── Task10_Packages_Encapsulation/
 ├── Task11_Implementation_Testing/
 ├── Task12_Design_Challenge/
-│
-├── Java_Programs/
-├── Output_Screenshots/
-├── Final_Report/
-│
 └── README.md
 ```
 
